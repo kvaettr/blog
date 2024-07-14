@@ -1,9 +1,47 @@
-text {
+p {
     font-family: 'Courier New', Courier, monospace;
-    font-size: 18pt;
+    font-size: 14pt;
 }
 
 h1 {
-    font-size: 24pt;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20pt;
+    font-weight:bold;
+    color:darkslateblue ;
 }
 
+.layout {
+    width: 100%;
+    display: grid;
+    grid:
+      "header" auto
+      "navigation" auto
+      "main" 1fr
+      "footer" auto
+      / 1fr;
+    gap: 8px;
+  }
+  
+.header { 
+    grid-area: header; 
+    border: solid;
+    border-width: 5px;
+    border-color: black;
+    text-align: center
+}
+
+.navigation {
+    text-align: center;
+    text-transform: lowercase;
+    font-size: 12pt;
+}
+  
+.main { 
+    grid-area: main; 
+    background-color: cornflowerblue;
+}
+
+.footer {
+     grid-area: footer; 
+     background-color: burlywood;
+    }
