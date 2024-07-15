@@ -1,6 +1,6 @@
 ---
 layout: layout.njk
-title: Welcome to my blog
+title: my third post!
 tags: blog
 ---
 
