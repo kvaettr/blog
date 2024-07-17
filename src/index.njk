@@ -3,13 +3,16 @@ layout: layout.njk
 title: vaettr
 ---
 
+<div class="content">
 <h1>It begins!</h1>
 <p>I put this brand new baby blog together using Eleventy, bit by bit with the help of the very straightforward <a href="https://sia.codes/posts/itsiest-bitsiest-eleventy-tutorial/" target="blank" rel="noopener noreferrer">tutorial</a> by <a href="https://sia.codes/" target="blank" rel="noopener noreferrer">Sia Karamalegos</a>.</p>
 
-<div class="post-list">
-<ul>
+
+  <div class="post-list">
+  <ul>
     {% for post in collections.blog %}
-      <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
+      <li><a href="{{ post.url }}">{{ post.data.date }} - {{ post.data.title }}</a></li>
     {% endfor %}
 </ul>
+</div>
 </div>

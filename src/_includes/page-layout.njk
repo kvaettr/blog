@@ -14,7 +14,9 @@
       <a href="/">Home</a> <a href="/pages/about">About</a> <a href="/pages/now">Now</a> <a href="/pages/uses">Uses</a>
     </nav>
   <!-- Grab the content from the page data and dump it here, and mark it as safe -->
-    <!-- Safe docs: https://mozilla.github.io/nunjucks/templating.html#safe -->
-    {{ content | safe }}
+  <!-- Safe docs: https://mozilla.github.io/nunjucks/templating.html#safe -->
+    <div class="content">  
+  {{ content | safe }}
+    </div>
   </body>
   </html>

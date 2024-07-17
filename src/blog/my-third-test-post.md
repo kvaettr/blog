@@ -1,7 +1,8 @@
 ---
-layout: layout.njk
+layout: page-layout.njk
 title: my third post!
 tags: blog
+date: 2024-07-16
 ---
 
 # Welcome
