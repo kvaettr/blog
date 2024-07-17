@@ -18,7 +18,7 @@ nav {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 20%;
+    width: 30%;
   }
 
 .post-list {
@@ -27,7 +27,7 @@ nav {
     border-width: 5px;
     background-color: rgb(254, 246, 254);
     margin: 0 auto;
-    width: 50%;
+    width: 60%;
     padding-top: 25px;
     padding-bottom: 25px;
 }
