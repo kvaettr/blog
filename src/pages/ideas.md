@@ -1,6 +1,6 @@
 ---
 layout: page-layout.njk
-title: about me
+title: ideas
 tags: pages
 ---
 
