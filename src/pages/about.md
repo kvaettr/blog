@@ -17,7 +17,9 @@ I chose **Vaettr** as my handle because Wight is family name belonging to relati
 I live in Canada, and spend my time learning to code and makin' stuff - oil painting, drawing, knitting, spinning, producing music, sewing and any other crafty pursuits I can get my hands on. I also recently learned to solder to repair my midi keyboard's USB-B port, and now I have the electronics repair bug. 
 
 
-I've loved computers and the idea of the internet since I was a little kid, biking the 5km every day all summer to use the computers at the public library, learning HTML from Neopets to decorate my shop. I think I made my first website, on geocities, at about 12 years old, dedicated as a gift to my first boyfriend for Valentine's day, complete with drippy blood horizontal rule decoration. Peak romance.
+I've loved computers and the idea of the internet since I was a little kid, biking the 5km every day all summer to use the computers at the public library, learning HTML from Neopets to decorate my shop. I think I made my first website, on geocities, at about 12 years old, as a gift to my first boyfriend for Valentine's day, complete with drippy blood horizontal rule decoration. Peak romance.
 
 
-<div class="center"><img class="horizontal" src="/images/blood-drip.gif" alt="drippy blood horizontal rule gif"><img class="horizontal" src="/images/blood-drip.gif" alt="drippy blood horizontal rule gif"><img class="horizontal" src="/images/blood-drip.gif" alt="drippy blood horizontal rule gif"><img class="horizontal" src="/images/blood-drip.gif" alt="drippy blood horizontal rule gif"><img class="horizontal" src="/images/blood-drip.gif" alt="drippy blood horizontal rule gif"><img class="horizontal" src="/images/blood-drip.gif" alt="drippy blood horizontal rule gif"></div>
+<div class="center"><img class="horizontal" src="/images/blood-drip.gif" alt="drippy blood horizontal rule gif"><img class="horizontal" src="/images/blood-drip.gif" alt="drippy blood horizontal rule gif"><img class="horizontal" src="/images/blood-drip.gif" alt="drippy blood horizontal rule gif"><img class="horizontal" src="/images/blood-drip.gif" alt="drippy blood horizontal rule gif"><img class="horizontal" src="/images/blood-drip.gif" alt="drippy blood horizontal rule gif"></div>
+
+<p class="right"> ... couldn't help myself :) </p>
