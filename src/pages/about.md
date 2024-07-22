@@ -20,7 +20,7 @@ I live in Canada, and spend my time learning to code and makin' stuff - oil pain
 I've loved computers and the idea of the internet since I was a little kid, biking the 5km to the public library every day, every summer, learning HTML from Neopets to decorate my shop. I think I made my first website, on geocities, at about 12 years old, as a gift to my first boyfriend for Valentine's day, complete with drippy blood horizontal rule decoration. Peak romance.
 
 
-<div class="center"><img class="horizontal" src="/images/blood-drip.gif" alt="drippy blood horizontal rule gif"></div>
+<div class="center"><img class="horizontal" src="/images/blood-drip.gif" alt="drippy blood horizontal rule gif"><img class="horizontal" src="/images/blood-drip.gif" alt="drippy blood horizontal rule gif"><img class="horizontal" src="/images/blood-drip.gif" alt="drippy blood horizontal rule gif"></div>
 
 <p class="right"> ... couldn't help myself :) </p>
 

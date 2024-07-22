@@ -16,14 +16,13 @@ nav {
 
 .center {
     display: flex;
-    width: 60%;
-    margin: auto;
     padding-top: 30px;
-
+    align-items: center;
+    justify-content: space-between;
   }
 
   .horizontal {
-    flex: 1 0 auto;
+    flex: 1 0 0;
   }
 
 .header {
