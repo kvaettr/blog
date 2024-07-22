@@ -19,10 +19,8 @@ I live in Canada, and spend my time learning to code and makin' stuff - oil pain
 
 I've loved computers and the idea of the internet since I was a little kid, biking the 5km to the public library every day, every summer, learning HTML from Neopets to decorate my shop. I think I made my first website, on geocities, at about 12 years old, as a gift to my first boyfriend for Valentine's day, complete with drippy blood horizontal rule decoration. Peak romance.
 
-
-<div class="center"><img class="horizontal" src="/images/blood-drip.gif" alt="drippy blood horizontal rule gif"><img class="horizontal" src="/images/blood-drip.gif" alt="drippy blood horizontal rule gif"><img class="horizontal" src="/images/blood-drip.gif" alt="drippy blood horizontal rule gif"></div>
-
-<p class="right"> ... couldn't help myself :) </p>
+<img src="/images/blood-drip.gif" class=center alt="drippy blood horizontal rule">
+<p class="right">... couldn't help myself, I had to find it again :)</p>
 
 Since then I've had numerous craft blogs, and spent 5 years streaming art (and games, eventually) on Twitch. I've always loved connecting with people using the internet and this recent foray into blogging, owning my space online, leaving the big social media silos in favour of the fediverse and forging ahead with this hand-coded little website has been reflective of my interest in owning my data, controlling my experience online and leaving the ads and algorithms behind.
 

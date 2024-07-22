@@ -15,14 +15,9 @@ nav {
 }
 
 .center {
-    display: flex;
-    padding-top: 30px;
-    align-items: center;
-    justify-content: space-between;
-  }
-
-  .horizontal {
-    flex: 1 0 0;
+    display: block;
+    width: auto;
+    margin: 0 auto;
   }
 
 .header {
@@ -53,4 +48,5 @@ nav {
 
 .right {
     text-align: right;
+    font-size: smaller;
 }
