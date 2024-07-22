@@ -24,7 +24,7 @@ I've loved computers and the idea of the internet since I was a little kid, biki
 
 <p class="right"> ... couldn't help myself :) </p>
 
-Since then I've had numerous craft blogs, and spent 5 years streaming art (and games, eventually) on Twitch. I've always loved connecting with people using the internet and this recent foray into blogging, owning my space online in favour of the fediverse, leaving the big social media silos and forging ahead with this hand-coded little website has been reflective of my interest in owning my data, controlling my experience online and leaving the ads and algorithms behind.
+Since then I've had numerous craft blogs, and spent 5 years streaming art (and games, eventually) on Twitch. I've always loved connecting with people using the internet and this recent foray into blogging, owning my space online, leaving the big social media silos in favour of the fediverse and forging ahead with this hand-coded little website has been reflective of my interest in owning my data, controlling my experience online and leaving the ads and algorithms behind.
 
 
 Finding that personal websites still exist and that blogging is still thriving out there, brought me back to the early days of the excitement that came with using the internet, following rabbit holes and learning anything I can get my hands on.
