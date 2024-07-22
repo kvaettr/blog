@@ -6,7 +6,7 @@ tags: pages
 
 #### Hi, I'm Vae - mid thirties, she/her, big fan of the smallweb.
 
->"The Old Norse term véttr/vættr and its English cognate wight are descended from Proto-Germanic wihtiz (thing, creature), from Proto-Indo-European >wekti- ("object, thing"). Vættr and wight normally refer to supernatural 'being', especially landvættr (land spirit), but can refer to any creature."
+>"The Old Norse term véttr/vættr and its English cognate wight are descended from Proto-Germanic wihtiz (thing, creature), from Proto-Indo-European wekti- ("object, thing"). Vættr and wight normally refer to supernatural 'being', especially landvættr (land spirit), but can refer to any creature."
 ><a href="https://mythus.fandom.com/wiki/Vaettir" target="_blank" rel="noopener noreferrer">Source</a>
 
 
