@@ -8,7 +8,7 @@
     "build": "npx @11ty/eleventy"
   },
   "keywords": [],
-  "author": "",
+  "author": "Vae",
   "license": "ISC",
   "dependencies": {
     "@11ty/eleventy": "^2.0.1",
