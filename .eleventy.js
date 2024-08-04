@@ -16,3 +16,26 @@ return {
     }
   };
 };
+
+import { feedPlugin } from "@11ty/eleventy-plugin-rss";
+
+export default function (eleventyConfig) {
+	eleventyConfig.addPlugin(feedPlugin, {
+		type: "rss", // or "rss", "json"
+		outputPath: "/feed.xml",
+		collection: {
+			name: "posts", // iterate over `collections.posts`
+			limit: 10,     // 0 means no limit
+		},
+		metadata: {
+			language: "en",
+			title: "Vaettr",
+			subtitle: "Art, Music, Learning & Sharing",
+			base: "https://vaettr.com/",
+			author: {
+				name: "Vae",
+				email: "", // Optional
+			}
+		}
+	});
+};
