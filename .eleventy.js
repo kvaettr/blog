@@ -17,9 +17,11 @@ return {
   };
 };
 
-import { feedPlugin } from "@11ty/eleventy-plugin-rss";
+const { feedPlugin } = require("@11ty/eleventy-plugin-rss");
 
-export default function (eleventyConfig) {
+// If you already have a configuration file make sure you don’t end
+// up with multiple `module.exports =` in the same file!
+module.exports = function (eleventyConfig) {
 	eleventyConfig.addPlugin(feedPlugin, {
 		type: "rss", // or "rss", "json"
 		outputPath: "/feed.xml",
@@ -30,7 +32,7 @@ export default function (eleventyConfig) {
 		metadata: {
 			language: "en",
 			title: "Vaettr",
-			subtitle: "Art, Music, Learning & Sharing",
+			subtitle: "Blogging as an aspect of my creative practice and self-education",
 			base: "https://vaettr.com/",
 			author: {
 				name: "Vae",
