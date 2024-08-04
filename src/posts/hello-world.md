@@ -1,7 +1,7 @@
 ---
 layout: page-layout.njk
 title: Hello World
-tags: blog
+tags: posts
 date: "2024-08-03"
 ---
 
