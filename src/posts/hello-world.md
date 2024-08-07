@@ -2,7 +2,7 @@
 layout: page-layout.njk
 title: Hello World
 tags: posts
-date: "2024-08-03"
+date: 2024-08-03
 ---
 
 I guess we're calling this the first official post on the blog! It's been ages since I dumped my brain onto a blog with some long-form writing like this, and I used to do it all the time! Any time I had a craft idea, or a diy project at home, I was photographing it and documenting the process on my blog for whoever decided to wander by. 
