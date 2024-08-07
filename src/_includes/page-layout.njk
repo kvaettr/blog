@@ -18,8 +18,10 @@
   <!-- Grab the content from the page data and dump it here, and mark it as safe -->
   <!-- Safe docs: https://mozilla.github.io/nunjucks/templating.html#safe -->
     <div class="content">  
-  <h1>{{ title }}</h1>
-  <p>{{ content | safe }}</p>
+      <article class="h-entry">
+        <h1 class="p-name">{{ title }}</h1>
+        <p class="e-content">{{ content | safe }}</p>
+      </article>
     </div>
   </body>
   </html>
