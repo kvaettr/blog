@@ -2,6 +2,7 @@
 layout: page-layout.njk
 title: about me
 tags: pages
+date: 2024-08-03
 ---
 
 #### Hi, I'm Vae - mid thirties, she/her, big fan of the smallweb.
