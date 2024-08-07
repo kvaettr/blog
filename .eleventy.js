@@ -1,3 +1,4 @@
+const { DateTime } = require("luxon");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 module.exports = function(eleventyConfig) {
@@ -7,6 +8,9 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("src/pages/");
     eleventyConfig.addPlugin(pluginRss);
 
+    eleventyConfig.addFilter("postDate", (dateObj) => {
+      return DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_MED);
+})
 
 return {
     // When a passthrough file is modified, rebuild the pages:
