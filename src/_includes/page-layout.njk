@@ -20,6 +20,8 @@
     <div class="content">  
       <article class="h-entry">
         <h1 class="p-name">{{ title }}</h1>
+        <p><time class="dt-published" datetime="YYYY-MM-DD HH:MM:SS">{{ date }}</time></p>
+       <!--This is something to add later - collections/cateogories with a specific blog page <a class="p-category" href="/posts"> {{ collections.posts }}</a> -->
         <p class="e-content">{{ content | safe }}</p>
       </article>
     </div>
