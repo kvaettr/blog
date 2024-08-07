@@ -2,9 +2,8 @@
 layout: page-layout.njk
 title: now
 tags: pages
+date: 2024-08-03
 ---
-
-#### 2024-07-22 -
 
 These days I'm preparing to move across town in a month and a half, donating stuff, downsizing and organizing things as I pack them. ~~The search for a used car continues and it SUCKS.~~ I GOT A CAR! CAN I GET A HELL YEAH?!
 
