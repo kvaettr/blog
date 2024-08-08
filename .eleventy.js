@@ -14,17 +14,17 @@ module.exports = function(eleventyConfig) {
    eleventyConfig.addCollection("notes", function(collection) {
     return collection.getFilteredByTags("watching", "reading", "listening", "bookmarks");
   })
-    eleventyConfig.addCollection("watching", function(collection) {
-      return collection.getFilteredByGlob("/watching/*.md");
+    eleventyConfig.addCollection("bookmarks", function (collectionApi) {
+    return collectionApi.getFilteredByTags("bookmarks");
   })
-   eleventyConfig.addCollection("reading", function(collection) {
-    return collection.getFilteredByGlob("/reading/*.md");
+    eleventyConfig.addCollection("watching", function (collectionApi) {
+    return collectionApi.getFilteredByTags("watching");
   })
-   eleventyConfig.addCollection("listening", function(collection) {
-    return collection.getFilteredByGlob("/listening/*.md");
-   })
-   eleventyConfig.addCollection("bookmarks", function(collection) {
-    return collection.getFilteredByGlob("/bookmarks/*.md");
+    eleventyConfig.addCollection("listening", function (collectionApi) {
+    return collectionApi.getFilteredByTags("listening");
+  })
+   eleventyConfig.addCollection("reading", function (collectionApi) {
+    return collectionApi.getFilteredByTags("reading");
   })
 
     eleventyConfig.addFilter("postDate", (dateObj) => {
