@@ -10,6 +10,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("src/watching");
     eleventyConfig.addPassthroughCopy("src/listening");
     eleventyConfig.addPlugin(pluginRss);
+    
    // custom collections 
    eleventyConfig.addCollection("notes", function(collection) {
     return collection.getFilteredByTags("watching", "reading", "listening", "bookmarks");
