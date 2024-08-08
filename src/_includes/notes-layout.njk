@@ -21,10 +21,7 @@
       <article class="h-entry">
         <h1 class="p-name"><a class="u-url" href="{{ post.url }}">{{ title }}</a></h1>
         <p><time class="dt-published">{{ date | postDate }}</time> - <a rel="author" class="p-author h-card" href="http://vaettr.com">Vae</a></p>
-        
-        <a class="p-category" href="/notes/{{ post.url }}"> {{ collections.notes }}</a>
         <p class="e-content">{{ content | safe }}</p>
-      </article>
     </div>
   </body>
   </html>
