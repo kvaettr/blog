@@ -1,7 +1,5 @@
 ---
-layout: page-layout.njk
 title: ideas
-tags: pages
 date: 2024-08-03
 ---
 
