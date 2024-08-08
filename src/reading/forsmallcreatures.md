@@ -1,5 +1,5 @@
 ---
-layout: notes-layout.njk
+layout: page-layout.njk
 title: For Small Creatures Such as We
 book author: Sagan
 tags: ["notes", "reading"]

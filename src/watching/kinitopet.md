@@ -1,5 +1,5 @@
 ---
-layout: notes-layout.njk
+layout: page-layout.njk
 title: KinitoPET
 tags: ["notes", "watching"]
 permalink: "/watching/{{ title | slug }}"

@@ -1,5 +1,5 @@
 ---
-layout: notes-layout.njk
+layout: page-layout.njk
 title: artist album name
 tags: ["notes", "listening"]
 permalink: "/listening/{{ title | slug }}"

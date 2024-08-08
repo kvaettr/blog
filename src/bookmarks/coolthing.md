@@ -1,5 +1,5 @@
 ---
-layout: notes-layout.njk
+layout: page-layout.njk
 title: cool thing
 tags: ["notes", "bookmarks"]
 permalink: "/bookmarks/{{ title | slug }}"
