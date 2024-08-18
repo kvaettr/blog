@@ -9,6 +9,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("src/bookmarks");
     eleventyConfig.addPassthroughCopy("src/watching");
     eleventyConfig.addPassthroughCopy("src/listening");
+    eleventyConfig.addPassthroughCopy("src/fonts");
     eleventyConfig.addPlugin(pluginRss);
     
    // custom collections 

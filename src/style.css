@@ -1,11 +1,30 @@
-* {
-    font-family: monospace;
-    font-weight: 100;
+@font-face {
+    font-family: "TT2020StyleD";
+    src: url("fonts/TT2020StyleD-Regular.woff2") format('woff2');
 }
+
+@font-face {
+    font-family: "TT2020StyleE";
+    src: url("fonts/TT2020StyleE-Italic.woff2") format('woff2');
+}
+
+* {
+    font-family: "TT2020StyleD";
+    font-size: 18px;
+    font-weight: bold;
+}
+
 
 a {
     color:darkred;
 }
+
+
+h1 {
+    font-family: "TT2020StyleE";
+    font-size: 24px;
+}
+
 
 nav {
     display: block;
