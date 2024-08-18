@@ -10,7 +10,7 @@ date: 2024-08-03
 
 
 
-I chose **Vaettr** as my handle because Wight is family name belonging to relatives of mine who are long passed but remain near and dear to my heart, and to whom I owe so much. The spooky connotation is a happy coincidence, as I'm ~~a bit~~ entirely a spooky girl at heart.
+I chose **Vaettr** as my handle because Wight is a family name belonging to relatives of mine who are long passed but remain near and dear to my heart, and to whom I owe so much. The spooky connotation is a happy coincidence, as I'm ~~a bit~~ entirely a spooky girl at heart.
 
 
 I live in Canada, and spend my time learning to code and makin' stuff - oil painting, drawing, knitting, spinning, producing music, sewing and any other crafty pursuits I can get my hands on. I also recently learned to solder to repair my midi keyboard's USB-B port, and now I have the electronics repair bug. 
