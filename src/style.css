@@ -9,7 +9,7 @@
 }
 
 * {
-    font-family: "TT2020StyleD";
+    font-family: "TT2020StyleD", monospace;
     font-size: 18px;
     font-weight: bold;
 }
@@ -21,7 +21,7 @@ a {
 
 
 h1 {
-    font-family: "TT2020StyleE";
+    font-family: "TT2020StyleE", monospace;
     font-size: 24px;
 }
 
