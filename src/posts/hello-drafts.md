@@ -6,7 +6,7 @@ tags: [post]
 
 welp, here's a test with another image
 
-![sunset](src/posts/sunset.jpg.txt)
+![sunset](sunset.jpg)
 
 if this works i'm hype 
 
