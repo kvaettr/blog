@@ -64,10 +64,9 @@ nav {
     padding: 20px;
 }
 
-.content img:not(.except):not(.header) {
+img:not(.except):not(.header) {
     display: block;
     width: 100%;
-    max-width: 400px;
     height: auto;
     margin: 0 auto;
     padding: 20px;
