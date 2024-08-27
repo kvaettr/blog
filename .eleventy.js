@@ -1,4 +1,4 @@
-const mdIterator = require('markdown-it-for-inline');
+
 const { DateTime } = require("luxon");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 
