@@ -67,7 +67,7 @@ nav {
 img:not(.except,.header) {
     display: block;
     width: auto;
-    margin: auto;
+    margin: 0 auto;
     padding: 20px;
 }
 
