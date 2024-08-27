@@ -69,7 +69,8 @@ img:not(.except):not(.header) {
     width: 100%;
     height: auto;
     margin: auto;
-    padding: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .right {
