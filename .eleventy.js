@@ -1,3 +1,4 @@
+const mdIterator = require('markdown-it-for-inline');
 const { DateTime } = require("luxon");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 
@@ -34,6 +35,31 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addFilter("postDate", (dateObj) => {
       return DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_MED);
 })
+
+// markdownit link changes start here
+
+let markdownLibrary = markdownIt({
+  html: true,
+  breaks: true,
+  linkify: true
+})
+
+.use(mdIterator, 'url_new_win', 'link_open', function (tokens, idx) {
+  const [attrName, href] = tokens[idx].attrs.find(attr => attr[0] === 'href')
+  
+  if (href && (!href.includes('vaettr.com') && !href.startsWith('/') && !href.startsWith('#'))) {
+    tokens[idx].attrPush([ 'target', '_blank' ])
+    tokens[idx].attrPush([ 'rel', 'noopener noreferrer' ])
+  }
+}).use(markdownItAnchor, {
+  permalink: true,
+  permalinkClass: "direct-link",
+  permalinkSymbol: "#"
+})
+eleventyConfig.setLibrary("md", markdownLibrary);
+
+//and end here
+
 
 return {
     // When a passthrough file is modified, rebuild the pages:
