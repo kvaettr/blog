@@ -13,11 +13,15 @@
   "dependencies": {
     "@11ty/eleventy": "^3.0.0-beta.1",
     "@11ty/eleventy-img": "^4.0.2",
+    "eleventy-plugin-automatic-noopener": "^2.0.2",
     "markdown-it": "^14.1.0",
     "markdown-it-anchor": "^9.1.0",
-    "markdown-it-for-inline": "^2.0.1"
+    "markdown-it-for-inline": "^2.0.1",
+    "posthtml": "^0.16.6",
+    "posthtml-outlinks": "^1.0.0"
   },
   "devDependencies": {
-    "@11ty/eleventy-plugin-rss": "^2.0.2"
+    "@11ty/eleventy-plugin-rss": "^2.0.2",
+    "@sardine/eleventy-plugin-external-links": "^1.4.0"
   }
 }
