@@ -1,7 +1,7 @@
 {
   "name": "eleventy-demo",
   "version": "1.0.0",
-  "description": "",
+  "description": "To get started, clone this repo, cd into it, and run `npm install`.",
   "main": "index.js",
   "scripts": {
     "start": "npx @11ty/eleventy --serve",
@@ -11,7 +11,7 @@
   "author": "Vae",
   "license": "ISC",
   "dependencies": {
-    "@11ty/eleventy": "^3.0.0-beta.1",
+    "@11ty/eleventy": "^3.0.0",
     "@11ty/eleventy-img": "^4.0.2",
     "eleventy-plugin-automatic-noopener": "^2.0.2",
     "markdown-it": "^14.1.0",
@@ -23,5 +23,13 @@
   "devDependencies": {
     "@11ty/eleventy-plugin-rss": "^2.0.2",
     "@sardine/eleventy-plugin-external-links": "^1.4.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvaettr/blog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kvaettr/blog/issues"
+  },
+  "homepage": "https://github.com/kvaettr/blog#readme"
 }
