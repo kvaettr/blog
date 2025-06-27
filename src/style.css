@@ -11,26 +11,37 @@
 * {
     font-family: "TT2020StyleD", monospace;
     font-size: 18px;
-    font-weight: bold;
+    color:#F8F8F2;
+}
+
+body {
+    background-color:#282A36;
 }
 
 
 a {
-    color:darkred;
+   color:#8BE9FD;
 }
 
 
 h1 {
     font-family: "TT2020StyleE", monospace;
     font-size: 24px;
+    color:#FF79C6;
 }
 
 
 nav {
     display: block;
+    background-color: #282A36;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
     padding-top: 14px;
     padding-bottom: 16px;
+    border-style: dotted;
+    border-color:#44475A;
 }
 
 .center {
@@ -52,13 +63,17 @@ nav {
     width: 60%;
     padding-top: 25px;
     padding-bottom: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
     margin-left: auto;
     margin-right: auto;
+    border-style: double;
+    border-color: #50FA7B;
 }
 
 .content {
     display: block;
-    width: 80%;
+    width: 60%;
     margin-left: auto;
     margin-right: auto;
     padding: 20px;
