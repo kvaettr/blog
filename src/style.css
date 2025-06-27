@@ -41,7 +41,7 @@ nav {
     padding-top: 14px;
     padding-bottom: 16px;
     border-style: dotted;
-    border-color:#44475A;
+    border-color: #44475A;
 }
 
 .center {
@@ -67,8 +67,8 @@ nav {
     padding-right: 25px;
     margin-left: auto;
     margin-right: auto;
-    border-style: double;
-    border-color: #50FA7B;
+    border-style: dotted;
+    border-color: #44475A;
 }
 
 .content {
