@@ -1,15 +1,15 @@
 @font-face {
-    font-family: "TT2020StyleD";
-    src: url("fonts/TT2020StyleD-Regular.woff2") format('woff2');
+    font-family: "TT2020StyleE";
+    src: url("fonts/Tt2020StyleE.ttf") format('ttf');
 }
 
 @font-face {
     font-family: "TT2020StyleE";
-    src: url("fonts/TT2020StyleE-Italic.woff2") format('woff2');
+    src: url("fonts/Tt2020StyleE.ttf") format('ttf');
 }
 
 * {
-    font-family: "TT2020StyleD", monospace;
+    font-family: "TT2020StyleE", monospace;
     font-size: 18px;
     color:#F8F8F2;
 }
