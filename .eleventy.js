@@ -2,6 +2,10 @@
 const { DateTime } = require("luxon");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const safeLinks = require('@sardine/eleventy-plugin-external-links');
+const footnotes = require('eleventy-plugin-footnotes')
+
+
+
 
 module.exports = function(eleventyConfig) {
     // Copy `src/style.css` to `_site/style.css`
@@ -16,6 +20,7 @@ module.exports = function(eleventyConfig) {
 
     eleventyConfig.addPlugin(pluginRss);
     eleventyConfig.addPlugin(safeLinks);
+    eleventyConfig.addPlugin(footnotes, { /* … */ })
     
     
    // custom collections 

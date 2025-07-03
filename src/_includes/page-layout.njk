@@ -19,7 +19,7 @@
   <!-- Safe docs: https://mozilla.github.io/nunjucks/templating.html#safe -->
     <div class="content">  
       <article class="h-entry">
-        <h1 class="p-name"><a class="u-url" href="{{ post.url }}">{{ title }}</a></h1>
+        <a class="u-url" href="{{ post.url }}"><h1>{{ title }}</h1></a>
         <p><time class="dt-published">{{ date | postDate }}</time> - <a rel="author" class="p-author h-card" href="http://vaettr.com">Vae</a></p>
         
        <!--This is something to add later - collections/cateogories with a specific blog page <a class="p-category" href="/posts"> {{ collections.posts }}</a> -->
