@@ -14,8 +14,6 @@ Dithering, and thereby reducing file size, and playing with custom colour palett
 
 I digress!
 
-Since I've been exploring music again, and buying used CDs to rip for the FLACs, maybe a page with links to the albums I own, and notes about what i like about each - favourite lyrics, maybe commentary on the insights I learn when reading about the making of said albums, could be fun!
-
 I'd love to somehow set up a log for notes about things watched/read/listened to and new bookmarks found on that day. Maybe when I'm doing better I can start running and logging those too...
 
 Digital gardening? Is that what that is? Fueled by some kind of weekly roundup of Things That Had My Attention?
