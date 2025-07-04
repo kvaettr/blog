@@ -10,7 +10,7 @@ Hey! It's July! I've just redone the colours of the blog, and I was procrastinat
 
 * I want to continue journaling, privately, on pen and paper in a little notebook I picked up a couple days ago. I gotta build that creative momentum again, and not every day is a blog post - some days it's stream-of-consciousness brain-dumping in hot pink ballpoint, but either way it makes me take notice, and taking notice fuels creativity, be it writing, art, or whatever. 
 
-  Journaling is so instrumental in giving me clarity and focus every day that I need to feel like a fully realized, active participant in my life. It's important for me to be consciously thinking through my days and choosing how to spend my time. I always need to be more present, and defining for myself my thoughts and feelings about things going on in my life helps centre me and choose a path forward. I used to keep notebooks on notebooks all through childhood (though I have kept none of them) and {% footnoteref "1" "day one and i'm absolutely fucking roasting myself lmfao" %} through hard times and as a way of willfully blinding myself to my reality I fell out of the habit{% endfootnoteref %}.
+  Journaling is so instrumental in giving me clarity and focus every day that I need to feel like a fully realized, active participant in my life. It's important for me to be consciously thinking through my days and choosing how to spend my time. I always need to be more present, and defining for myself my thoughts and feelings about things going on in my life helps centre me and choose a path forward. I used to keep notebooks on notebooks all through childhood (though I have kept none of them) and through hard times and as a way of willfully blinding myself to my reality, I fell out of the habit[^1].
 
 * In that same vein, in an effort to more consciously consume media, I was thinking maybe I would post a weekly media roundup of videos, songs, movies, articles, books, whatever I've got my hands on, in particular highlighting what I've been enjoying. In my many forays into blogging during the early 2000s I really loved sharing poems I found, or pieces of music that struck me that week, and I think that's a format I want to resurrect for myself. 
 
@@ -18,5 +18,4 @@ Hey! It's July! I've just redone the colours of the blog, and I was procrastinat
 
 The Internet is Other People, and part of that is this blog, me trying to show up in my own way.
 
-
-{% footnotes %}
+[^1] day one and i'm absolutely fucking roasting myself lmfao
