@@ -1,5 +1,7 @@
 backend:
-  name: git-gateway
+backend:
+  name: github
+  repo: kvaettr/blog
   branch: main
   commit_messages:
     create: Create {{collection}} “{{slug}}”
