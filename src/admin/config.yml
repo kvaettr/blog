@@ -1,0 +1,21 @@
+backend:
+  commit_messages:
+    create: Create {{collection}} “{{slug}}”
+    update: Update {{collection}} “{{slug}}”
+    delete: Delete {{collection}} “{{slug}}”
+    uploadMedia: Upload “{{path}}”
+    deleteMedia: Delete “{{path}}”
+    openAuthoring: '{{message}}'
+
+publish_mode: simple
+
+media_folder: "_site/images/uploads"
+
+site_url: https://vaettr.com
+
+logo_url: https://vaettr.com/images/invert-vaettr.png
+
+collections:
+  - name: posts
+    identifier_field: name
+    slug: "posts/{{slug}}"

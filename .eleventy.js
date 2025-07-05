@@ -17,6 +17,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("src/listening");
     eleventyConfig.addPassthroughCopy("src/fonts/");
     eleventyConfig.addPassthroughCopy("src/posts/");
+    eleventyConfig.addPassthroughCopy("src/admin/");
 
     eleventyConfig.addPlugin(pluginRss);
     eleventyConfig.addPlugin(safeLinks);
@@ -25,7 +26,7 @@ module.exports = function(eleventyConfig) {
     
    // custom collections 
    eleventyConfig.addCollection("notes", function(collection) {
-    return collection.getFilteredByTags("watching", "reading", "listening", "bookmarks");
+    return collection.getFilteredByTags("notes");
   })
     eleventyConfig.addCollection("bookmarks", function (collectionApi) {
     return collectionApi.getFilteredByTags("bookmarks");
