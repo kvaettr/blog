@@ -21,7 +21,7 @@ logo_url: https://vaettr.com/images/invert-vaettr.png
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
     label: "Posts" # Used in the UI
-    folder: "posts/" # The path to the folder where the documents are stored
+    folder: "src/posts/" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: #- { label: "Layout", name: "layout", widget: "hidden", default: "blog" }
