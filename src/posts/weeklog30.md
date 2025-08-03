@@ -1,7 +1,7 @@
-—-
+---
 title: Weeklog Number 30-2025
 date: 2025-08-02
-—-
+---
 
 Been a busy, emotional rollercoaster of a week. 
 
